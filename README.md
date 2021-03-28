@@ -1,5 +1,6 @@
 # Practical Numerical Methods with Python
 ## Repositorio do Luis - famoso Sid
+alteracao do prego
 
 This project started in 2014 as a multi-campus, connected course (plus MOOC) on numerical methods for science and engineering. 
 
